@@ -1,24 +1,24 @@
 
 DRAGONS:
 Joe Smith, YES, Jim and Jan Smith
-Jill Tanner, YES, Clara Tanner
-Bill Bon, YES, Sara and Jenny Bon
 Eva Gordon, NO, Wendy and Mike Gordon
+Jill Tanner, YES, Clara Tanner
 Matt Gill, NO, Charles and Sylvia Gill
+Bill Bon, YES, Sara and Jenny Bon
 Kimmy Stein, NO, Bill and Hillary Stein
 
 RAPTORS:
 Karl Saygan, YES, Heather Bledsoe
-Suzane Greenberg, YES, Henrietta Dumas
-Diego Soto, YES, Robin and Sarika Soto
 Sammy Adams, NO, Jeff Adams
+Suzane Greenberg, YES, Henrietta Dumas
 Sal Dali, NO, Gala Dali
+Diego Soto, YES, Robin and Sarika Soto
 Joe Kavalier, NO, Sam and Elaine Kavalier
 
 SHARKS:
 Phillip Helm, YES, Thomas Helm and Eva Jones
-Les Clay, YES, Wynonna Brown
-Herschel Krustofski, YES, Hyman and Rachel Krustofski
 Ben Finkelstein, NO, Aaron and Jill Finkelstein
+Les Clay, YES, Wynonna Brown
 Chloe Alaska, NO, David and Jamie Alaska
+Herschel Krustofski, YES, Hyman and Rachel Krustofski
 Arnold Willis, NO, Claire Willis
